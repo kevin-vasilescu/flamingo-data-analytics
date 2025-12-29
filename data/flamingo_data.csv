@@ -1,0 +1,20 @@
+species,region,country,population_2020,population_2023,habitat_type,conservation_status,altitude_meters,temperature_celsius,water_salinity
+Greater Flamingo,Africa,Tanzania,450000,485000,Alkaline Lake,Least Concern,1200,32.5,Saline
+Lesser Flamingo,Africa,Kenya,2100000,2340000,Alkaline Lake,Least Concern,1850,28.0,Alkaline
+Lesser Flamingo,Africa,Tanzania,1500000,1680000,Alkaline Lake,Least Concern,1200,32.5,Saline
+Greater Flamingo,Asia,Kazakhstan,35000,38500,Coastal Lagoon,Least Concern,45,18.0,Saline
+Andean Flamingo,South America,Chile,400,420,High-Altitude Lake,Critically Endangered,4500,-5.0,Saline
+Chilean Flamingo,South America,Argentina,25000,26500,High-Altitude Lake,Vulnerable,3500,12.0,Saline
+James's Flamingo,South America,Bolivia,38000,41200,High-Altitude Lake,Endangered,4200,-2.0,Alkaline
+American Flamingo,Caribbean,Bahamas,45000,52000,Coastal Lagoon,Least Concern,15,26.0,Saline
+Greater Flamingo,Africa,Egypt,32000,35600,Coastal Lagoon,Least Concern,200,28.0,Saline
+Lesser Flamingo,Africa,Namibia,120000,138000,Alkaline Lake,Least Concern,900,22.0,Alkaline
+Greater Flamingo,Europe,Spain,28000,31500,Coastal Lagoon,Least Concern,80,16.0,Saline
+Andean Flamingo,South America,Peru,380,400,High-Altitude Lake,Critically Endangered,4480,-3.0,Saline
+Chilean Flamingo,South America,Peru,18000,19500,High-Altitude Lake,Vulnerable,3800,10.0,Saline
+American Flamingo,Caribbean,Cuba,52000,58000,Coastal Lagoon,Least Concern,20,27.0,Saline
+Greater Flamingo,Asia,Iran,55000,62000,Coastal Lagoon,Least Concern,120,25.0,Saline
+Lesser Flamingo,Africa,Sudan,280000,312000,Alkaline Lake,Least Concern,1100,30.0,Alkaline
+James's Flamingo,South America,Argentina,28000,30200,High-Altitude Lake,Endangered,4300,-1.0,Alkaline
+American Flamingo,Caribbean,Mexico,35000,41000,Coastal Lagoon,Least Concern,10,29.0,Saline
+Greater Flamingo,Africa,Morocco,25000,28000,Coastal Lagoon,Least Concern,0,20.0,Saline
